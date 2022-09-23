@@ -67,7 +67,7 @@ export default function App() {
             &#128512;
           </p>
         </div>
-        <button>
+        <button onClick={onClick}>
           inc
         </button>
       </div>
